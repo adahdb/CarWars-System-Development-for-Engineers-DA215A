@@ -22,3 +22,10 @@ This project was completed as part of the course Systemutveckling och projekt f�
 - Controller: A PlayStation 4 controller used to control the cars due to time constraints (originally planned to use NRF24L01).
 - Server: A central server (Java-based) that tracks collisions and player status.
 - Wi-Fi & Communication: ESP32 handles Wi-Fi communication to the server.
+
+## Group Members
+
+- **Adnan Alahdab** – [LinkedIn Profile](https://www.linkedin.com/in/adnan-alahdab-076056281/)
+- **Joshua Owald** – [LinkedIn Profile](https://www.linkedin.com/in/joshua-owald-337759271/)
+- **Omar Yassin** – [LinkedIn Profile](https://www.linkedin.com/in/omar-yassin-6b24ba273/)
+- **Rachid Kontakgi** – [LinkedIn Profile](https://www.linkedin.com/in/rachid-kontakgi-87b810225/)
