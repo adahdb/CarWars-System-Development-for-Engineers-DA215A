@@ -1,9 +1,11 @@
 CarWars - Interactive RC Car Battle Game
 
 Overview
+
 CarWars is an interactive battle game where remote-controlled (RC) cars fight each other by colliding. The cars are equipped with accelerometers to detect impacts, and the game tracks the health of each vehicle. When a car's health reaches 0%, it is eliminated. The last remaining car wins. This project was designed as a smaller version of Robot Wars, with RC cars replacing robots, combining hardware, software, and real-time interaction to create a competitive game.
 
 Purpose
+
 The goal of CarWars was to develop a physical multiplayer game that blends electronics, software, and real-time interaction. The idea was to use NRF24L01 modules to wirelessly control the cars, with both the controller and car systems implemented from scratch. However, due to time constraints, we adapted the project by using a PlayStation 4 controller to control the car. The project also initially planned to 3D print the chassis, but the tight deadlines led to purchasing pre-built RC cars, which were stripped of their internals and replaced with our custom circuitry.
 
 This project was completed as part of the course Systemutveckling och projekt för ingenjörer, where we applied engineering concepts in system development and project management.
